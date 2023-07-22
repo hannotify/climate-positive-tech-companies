@@ -20,8 +20,27 @@ Berlin
 Search engine.
 
 **Green Category**  
-Climate-positive. The site itself runs climate-neutrally, but the fact that Ecosia is a non-profit and all profit goes to tree-planting makes it climate-positive.
+Climate-positive. 
+
+> The site itself runs climate-neutrally, but the fact that Ecosia is a non-profit and all profit goes to tree-planting makes it climate-positive.
 
 **Useful Links**  
 [Website](https://ecosia.org), [Job Openings](https://jobs.lever.co/ecosia).
 
+## Netherlands 🇳🇱
+
+### Leafcloud
+
+**City**  
+Amsterdam
+
+**Summary of Activities**  
+Cloud services built upon a distributed architecture. 
+
+**Green Category**  
+Climate-positive. 
+
+> Distributed cloud locations (so-called "Leaf Sites") are placed at public buildings that use hot water year-round (such as swimming pools, apartment buildings, hotels). About 85% of the the heat the servers generate can be delivered to the building's heating system, displacing the use of natural gas. [More information](https://www.leaf.cloud/truly-green).
+
+**Useful Links**  
+[Website](https://www.leaf.cloud/), [Job Openings](https://www.leaf.cloud/join-leafcloud), [Why Climate-Positive?](https://www.leaf.cloud/truly-green).
