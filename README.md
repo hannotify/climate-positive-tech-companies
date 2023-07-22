@@ -29,19 +29,15 @@ Climate-positive.
 
 ## Netherlands 🇳🇱
 
-### Justdiggit
-
-...
-
 ### Fairphone
 
-**City**
+**City**  
 Amsterdam
 
-**Summary of Activities**
+**Summary of Activities**  
 Building a more sustainable smartphone.
 
-**Green Category**
+**Green Category**  
 Aiming to be net zero in 2045.
 
 **Useful Links**
