@@ -1,6 +1,6 @@
 # Green Tech Companies
 
-A list of companies that aim to be climate-neutral or climate-positive and have tech or software job openings.
+A list of companies that aim to be climate-neutral or climate-positive and have tech- or software-related job openings.
 
 ## Why this list?
 
@@ -28,6 +28,24 @@ Climate-positive.
 [Website](https://ecosia.org), [Job Openings](https://jobs.lever.co/ecosia).
 
 ## Netherlands 🇳🇱
+
+### Justdiggit
+
+...
+
+### Fairphone
+
+**City**
+Amsterdam
+
+**Summary of Activities**
+Building a more sustainable smartphone.
+
+**Green Category**
+Aiming to be net zero in 2045.
+
+**Useful Links**
+[Website](https://www.fairphone.com), [Jobs](https://www.fairphone.com/en/about/join-the-team), [About That Net Zero Aim](https://www.fairphone.com/en/impact/climate-action/).
 
 ### Leafcloud
 
